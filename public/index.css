@@ -1,0 +1,125 @@
+#header {
+  background-color: #ffb100;
+  text-align: center;
+  padding: 40px;
+}
+
+#next {
+  background-color: #ffb100;
+  border: #ffb100;
+  border-radius: 10px;
+  height: 60px;
+  width: 120px;
+  margin: 20px;
+  text-align: center;
+}
+
+#question-container {
+  text-align: center;
+  font-size: larger;
+  padding: 20px;
+  width: 100%;
+}
+
+#time {
+  text-align: right;
+}
+
+#choice {
+  text-align: center;
+  font-size: large;
+}
+
+#score {
+  text-align: center;
+  margin: 20px;
+  font-size: large;
+}
+
+#table-choice {
+  width: 100%;
+}
+
+body {
+  background-color: #ffebb7;
+}
+
+code {
+  background-color: #1e1e1e;
+  border-radius: 4px;
+  color: #d4d4d4;
+  font-family: monospace;
+  padding: 2px 4px;
+}
+
+#card1 {
+  margin-top: 10%;
+  text-align: center;
+  border: 1px #ffb100;
+  border-radius: 6%;
+  background-color: #ffb100;
+  width: 25%;
+  margin-left: 6%;
+  display: inline-block;
+  height: 300px;
+}
+
+#card2 {
+  margin-top: 10%;
+  text-align: center;
+  border: 1px #ffb100;
+  border-radius: 6%;
+  background-color: #ffb100;
+  width: 25%;
+  margin-left: 6%;
+  display: inline-block;
+  height: 300px;
+}
+
+#card3 {
+  margin-top: 10%;
+  text-align: center;
+  border: 1px #ffb100;
+  border-radius: 6%;
+  background-color: #ffb100;
+  width: 25%;
+  margin-left: 6%;
+  display: inline-block;
+  height: 300px;
+}
+
+#container {
+  white-space: nowrap;
+}
+
+.card-title {
+  margin: 5%;
+  font-size: 20px;
+}
+
+img {
+  margin-bottom: 5%;
+}
+
+p {
+  margin-bottom: 0%;
+  font-size: 14px;
+}
+
+.final-p {
+  margin-bottom: 8%;
+}
+
+#ts-ban {
+  color: red;
+}
+
+.simpl-btn {
+  background-color: #ffebb7;
+  text-decoration: none;
+  border-radius: 6px;
+  padding: 2%;
+  color: black;
+  margin-top: 15%;
+  border: 0px;
+}
